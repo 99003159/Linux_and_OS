@@ -1,6 +1,6 @@
 #include"shell.h"
 int main()
 {
-void shell();
+shell();
 return 0;
 }
